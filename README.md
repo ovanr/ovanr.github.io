@@ -1,5 +1,3 @@
-# Orpheas van Rooij
-
 ## About Me
 I'm a MSc student at the Radboud university in Nijmegen.
 Soon I will be starting a PhD at the University of Edinburgh under the supervision of Sam Lindley.
