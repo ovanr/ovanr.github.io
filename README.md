@@ -1,7 +1,9 @@
 # About Me
+<<<<<<< HEAD
+=======
 My research interests are mostly related to Programming Languages, such as effect handlers, type systems, program verification and functional programming.
 For more details you can check my [CV](/curriculum_vitae.pdf).
-I soon be starting a PhD at the University of Edinburgh under the supervision of Sam Lindley.
+I will soon start a PhD at the University of Edinburgh under the supervision of Sam Lindley.
 
 # Projects
 - [Affect](https://github.com/ovanr/affect) Formalisation of an affine type and effect system.
