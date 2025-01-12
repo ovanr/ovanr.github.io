@@ -1,6 +1,6 @@
 # About Me
 
-My research interests are mostly related to Programming Languages, such as effect handlers, type systems, program verification and functional programming.
+My research interests are mostly related to Programming Languages, such as semantics, effect handlers, type systems, program verification and functional programming.
 For more details you can check my [CV](/curriculum_vitae.pdf).
 I am currently doing a PhD at the University of Edinburgh under the supervision of Dr. Sam Lindley.
 
