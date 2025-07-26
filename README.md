@@ -4,7 +4,7 @@ My main research interests are in semantics of effects,
 category theory, separation logic, effects handlers, proof assistants, type theory
 and programming language research in general.
 For more details you can check my [CV](/curriculum_vitae.pdf).
-I am currently doing a PhD at the University of Edinburgh adviced by Dr. Sam Lindley, Dr. Ohad Kammar and others.
+I am currently doing a PhD at the University of Edinburgh advised by Dr. Sam Lindley, Dr. Ohad Kammar and others.
 
 # Publications
 
