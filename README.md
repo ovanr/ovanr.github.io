@@ -4,7 +4,21 @@ My main research interests are in semantics of effects,
 category theory, separation logic, effects handlers, proof assistants, type theory
 and programming language research in general.
 For more details you can check my [CV](/curriculum_vitae.pdf).
-I am currently doing a PhD at the University of Edinburgh advised by Dr. Sam Lindley, Dr. Ohad Kammar and others.
+
+
+# Education
+
+- (2024-Ongoing) PhD in Computer Science - University of Edinburgh \\
+  Topic: Algebraic Effects & Handlers, programming language semantics. \\
+  Advisors: [Dr. Sam Lindley](https://homepages.inf.ed.ac.uk/slindley/), [Dr. Ohad Kammar](https://denotational.co.uk/) and others.
+- (2021-2024) MSc in Software Science - Radboud University \\
+  Grade: Cum laude \\
+  Thesis: A Substructural Type and Effect System \\
+  Advisor: [Dr. Robbert Krebbers](https://robbertkrebbers.nl)
+- (2018-2021) BSc in Computer Science - University of Cyprus \\
+  Grade: 9.03/10 (Excellent) \\
+  Thesis: An Instrumentation Approach To Web Fuzzing \\
+  Advisor: [Dr. Elias Athanasopoulos](https://elathan.github.io/)
 
 # Publications
 
