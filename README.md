@@ -1,8 +1,12 @@
 # About Me
 
+<<<<<<< HEAD
 My main research interests are in programming language semantics of effects,
 category theory, separation logic, effects handlers, proof assistants, type theory
 and programming language research in general.
+=======
+My research interests are mostly related to Programming Languages, such as semantics, effect handlers, type systems, program verification and functional programming.
+>>>>>>> 04d95b0bba681a903a2a630aa54ef86f54103322
 For more details you can check my [CV](/curriculum_vitae.pdf).
 I am currently doing a PhD at the University of Edinburgh supervised by Dr. Sam Lindley and others.
 
