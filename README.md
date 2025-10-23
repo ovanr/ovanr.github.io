@@ -31,10 +31,10 @@ For more details you can check my [CV](/curriculum_vitae.pdf).
 - [SPLV 2025](https://spli.scot/splv/2025-edinburgh/) \\
    Participant, Edinburgh, UK
 
-- [TUPLES 2025](https://typesig.pl/tuples2025/)
+- [TUPLES 2025](https://typesig.pl/tuples2025/) \\
    Presenter, Edinburgh, UK
 
-- [POPL 2025](https://conf.researchr.org/home/POPL-2025)
+- [POPL 2025](https://conf.researchr.org/home/POPL-2025) \\
    Presenter, Denver, US
 
 - [VERSEN 2024](https://www.versen.nl/news_items/versen-best-master-2025/) \\
