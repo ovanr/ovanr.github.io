@@ -28,6 +28,12 @@ For more details you can check my [CV](/curriculum_vitae.pdf).
 
 # Professional Activities
 
+- [SPLV 2025](https://spli.scot/splv/2026-glasgow/) \\
+   Participant, Glasgow, UK
+
+- [MGS2026](https://ulrikbuchholtz.dk/mgs2026/ ) \\
+   Participant, Nottingham, UK
+
 - [SPLV 2025](https://spli.scot/splv/2025-edinburgh/) \\
    Participant, Edinburgh, UK
 
