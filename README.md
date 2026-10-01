@@ -8,15 +8,15 @@ For more details you can check my [CV](/curriculum_vitae.pdf).
 
 - (2024-Ongoing) PhD in Computer Science - University of Edinburgh \\
   Topic: Algebraic Theories & Effects, programming language semantics. \\
-  Advisors: [Dr. Sam Lindley](https://homepages.inf.ed.ac.uk/slindley/), [Dr. Ohad Kammar](https://denotational.co.uk/) and others.
+  Advisors: [Sam Lindley](https://homepages.inf.ed.ac.uk/slindley/), [Ohad Kammar](https://denotational.co.uk/) and [Conor Titania McBride](http://strictlypositive.org/)
 - (2021-2024) MSc in Software Science - Radboud University \\
   Grade: Cum laude \\
   Thesis: A Substructural Type and Effect System \\
-  Advisor: [Dr. Robbert Krebbers](https://robbertkrebbers.nl)
+  Advisor: [Robbert Krebbers](https://robbertkrebbers.nl)
 - (2018-2021) BSc in Computer Science - University of Cyprus \\
   Grade: 9.03/10 (Excellent) \\
   Thesis: An Instrumentation Approach To Web Fuzzing \\
-  Advisor: [Dr. Elias Athanasopoulos](https://elathan.github.io/)
+  Advisor: [Elias Athanasopoulos](https://elathan.github.io/)
 
 # Publications
 
