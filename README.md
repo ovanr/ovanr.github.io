@@ -19,7 +19,8 @@ For more details you can check my [CV](/curriculum_vitae.pdf).
   Advisor: [Dr. Elias Athanasopoulos](https://elathan.github.io/)
 
 # Publications
-
+- [Finitary Semantics for Full Ground Local State](https://arxiv.org/abs/2608.21271) \\
+  *Work in Progress*
 - [Affect: An Affine Type and Effect System](https://dl.acm.org/doi/10.1145/3704841) \\
   *Proceedings of the ACM on Programming Languages (POPL)* \\
   Recipient of *Distinguished Paper Award*
